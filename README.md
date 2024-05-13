@@ -1,2 +1,1 @@
-# conflict_sample
-コンフリクト宿題のリポジトリ
+GitHubで編集した
